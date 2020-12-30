@@ -5,7 +5,7 @@ Para efeito de estudo, utilizei esta api de envio de mensagens 'sms' através da
 ### Requisitos
 
 - Node.js
-- Ter uma conta no site da zenvia para poder gerar um token único
+- Ter uma conta no site da zenvia para gerar um token único
 
 ### Instalação 
 
